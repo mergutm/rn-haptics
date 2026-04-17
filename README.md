@@ -24,3 +24,5 @@ npx expo start --offline
 
 Escanear el código QR con la cámara del teléfono.
 
+
+![images/prueba.jpeg](images/prueba.jpeg)
